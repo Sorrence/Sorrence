@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sorrence
-- 👀 I’m interested in Cyber Security / Ethical Hacking
+- 👀 I’m interested in Vulnerability Research - Exploit Development
 - 🌱 I’m currently learning ...
 
 
